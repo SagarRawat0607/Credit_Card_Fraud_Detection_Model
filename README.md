@@ -34,7 +34,7 @@ A comprehensive machine learning-powered web application for detecting fraudulen
    ```bash
    git clone https://github.com/SagarRawat0607/Credit_Card_Fraud_Detection_Model
    cd credit-card-fraud-detection
-````
+   ```
 
 2. **Create virtual environment**
 
